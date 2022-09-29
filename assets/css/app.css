@@ -41,11 +41,12 @@ nav{
 
 .card{
     cursor: pointer;
+    
 
 }
 
 .card-body{
-    background-color: rgba(53, 197, 207, 0.747);
+    background-color: rgba(22, 87, 92, 0.507);
 }
 
 
