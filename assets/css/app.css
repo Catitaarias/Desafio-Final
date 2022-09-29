@@ -9,19 +9,8 @@ body{
     color: white;
     font-family: 'Raleway', sans-serif;
 }
+ 
 
-.hero-section{
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover; 
-    width: 100%;
-    height: 100%;
-    
-}
-
-nav{
-    background-color: rgba(53, 197, 207, 0.747);
-}
 
 #Quienes-Somos{
     font-size: 14px;
