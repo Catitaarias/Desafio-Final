@@ -1,0 +1,68 @@
+html{
+    scroll-behavior: auto !important;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.hero-section{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 100%;
+    height: 100%;
+    
+}
+
+nav{
+    background-color: rgba(53, 197, 207, 0.747);
+}
+
+#Quienes-Somos{
+    font-size: 14px;
+    line-height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.linea{
+    background-color:rgba(53, 197, 207, 0.747);
+    text-align: center;
+}
+
+.btn{
+    background-color: rgba(53, 197, 207, 0.747);
+}
+
+.card-body{
+    background-color: rgba(53, 197, 207, 0.747);
+}
+
+
+.card-text{
+    font-size: 14px;
+
+}
+
+.card-title{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+footer{
+    background-color: rgba(53, 197, 207, 0.747);
+    font-size: 20px;
+    
+
+    
+    
+}
+
+footer a{
+    color: white;
+}
