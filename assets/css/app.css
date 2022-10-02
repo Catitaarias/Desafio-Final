@@ -52,13 +52,14 @@ body{
 
 footer{
     background-color: rgba(53, 197, 207, 0.747);
-    font-size: 18px;
-    
-
-    
+    font-size: 18px; 
     
 }
 
 footer a{
     color: white;
+}
+
+h1, h2 {
+    font-size: 30px;
 }
